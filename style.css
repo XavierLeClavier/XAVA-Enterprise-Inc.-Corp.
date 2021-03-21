@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-image: url("background.png");
+  text-allign: center;
+}
+
+.centerpg {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+.blanc {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+.large {
+  font-weight: bold;
+  font-size: 48px;
+  color: white;
+}
+.thin {
+  font-weight: lighter;
+  font-size: 26px;
+  color:black;
+  border: 3px solid #fff;
+  padding-top: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  background-color: #bcfd4c;
+}
+.bouton {
+  font-size: 16px;
+  font-family: calibri;
+  color: black;
+  font-weight: bold;
+  border-radius: 7px;
+  border: 2px solid #fff;
+  background-color: #bcfd4c;
+  padding: 10px 10px;
+  outline: none;
+  width: 170px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
