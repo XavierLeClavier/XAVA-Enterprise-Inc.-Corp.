@@ -2,7 +2,7 @@
 body {
   font-family : 'Noto Sans', sans-serif;
   font-size : 16px;
-  background-image: url("mb.png");
+  background-image: url("../img/ram.png");
   background-size: 500px 280px;
   background-size: cover;
   text-allign: center;
@@ -32,7 +32,7 @@ body {
   margin: 0;
 }
 
-.navbar a:hover, .dropdown:hover, .dropbtn {
+.navbar a:hover, .dropdown:hover .dropbtn {
   background-color: white;
   top-margin: 3px;
 }
@@ -75,23 +75,10 @@ a{
 
 h1{
   text-align: center;
-  color: black;
+  color: white;
 } 
-h1, h3{
-  color: black;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
-  border: 3px solid #fff;
-  padding-top: 25px;
-  padding-right: 25px;
-  padding-bottom: 25px;
-  padding-left: 25px;
-  background-color: #bdbdbd;
-}
-h6{
-  color: black;
+h3, h6 {
+  color: white;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 150px;

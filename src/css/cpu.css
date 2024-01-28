@@ -2,7 +2,7 @@
 body {
   font-family : 'Noto Sans', sans-serif;
   font-size : 16px;
-  background-image: url("ram.png");
+  background-image: url("../img/cpu.png");
   background-size: 500px 280px;
   background-size: cover;
   text-allign: center;
@@ -12,7 +12,6 @@ body {
   position: fixed; 
   top: 0; 
   left: 0; 
-	
   min-width: 100%;
   min-height: 100%;
 }
@@ -83,6 +82,7 @@ h3, h6 {
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
+  
 }
 .bouton {
   font-size: 16px;

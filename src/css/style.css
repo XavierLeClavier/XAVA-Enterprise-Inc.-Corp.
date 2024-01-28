@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 body {
   font-family: 'Noto Sans', sans-serif;
-  background-image: url("background.png");
+  background-image: url("../img/background.png");
   text-allign: center;
 }
 
